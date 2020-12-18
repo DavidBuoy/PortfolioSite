@@ -1,13 +1,22 @@
 body{
-    background-color: rgb(207, 207, 207);
+
+}
+header{
+    margin-bottom: 50px;
+}
+.navbar{
+    background-color:#414141;
 }
 h1{
     color: black;
     font-size: 100px;
     margin-bottom: 20px;
 }
+.clearfix{
+    background-color: #eee;
+}
 .img-fluid{
-   max-width: 33%;
+   max-width: 50%;
    height: auto; 
    float: left;
    overflow: auto;
@@ -15,6 +24,11 @@ h1{
 }
 /* This is for the socials */
 footer{
-    background-color: darkgray;
+    margin-top: 30px;
+    background-color:lightgrey;
     height: 50px;
+}
+.blockquote{
+    padding: 10px;
+    text-align: center;
 }
