@@ -1,34 +1,49 @@
 body{
-
+}
+.container{
+    width: 75%;
 }
 header{
     margin-bottom: 50px;
+    border-bottom:solid 5px black ;
 }
 .navbar{
     background-color:#414141;
 }
-h1{
-    color: black;
-    font-size: 100px;
-    margin-bottom: 20px;
+
+#panda{
+    width: 250px;
+    height: auto;
+}
+.card{
+    margin-top: 20px;
+    border: none;
+}
+/* This is for the socials */
+footer{
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  background-color: lightsalmon;
+}
+.blockquote{
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+/* this goes with the old HTML Maybe Delete? */
+.display-4{
+    border-bottom: solid 1px lightgray;
 }
 .clearfix{
     background-color: #eee;
 }
 .img-fluid{
-   max-width: 50%;
-   height: auto; 
-   float: left;
-   overflow: auto;
-   margin: 0 20px 20px 0;
+    margin:15px 30px;
+    float: left;
 }
-/* This is for the socials */
-footer{
-    margin-top: 30px;
-    background-color:lightgrey;
-    height: 50px;
-}
-.blockquote{
-    padding: 10px;
-    text-align: center;
+.text-justify{
+    margin-left: 10px;
 }
