@@ -37,25 +37,37 @@
 
 <body>
     <div class="container">
-        <form>
+        <div class="row">
+            <div class="col-12">
+                <h1 class="display-4">Contact</h1>
+            </div>
+        </div>
+        
+        <form class="form">
+            <div class="form-group">
+                <label for="input-name">Name</label>
+                <input type="text" class="form-control" id="input-name" aria-describedby="name-help">
+                <small id="name-help" class="form-text text-muted">First Name</small>
+            </div>
             <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
                     else.</small>
             </div>
+
             <div class="form-group">
                 <label for="exampleInputPassword1">Password</label>
-                <input type="password" class="form-control" id="exampleInputPassword1">
-            </div>
-            <div class="form-group">
-                <label for="exampleInputPassword1">Password</label>
-                <input type="password" class="form-control" id="exampleInputPassword1">
+                <input class="form-control" id="exampleInputPassword1">
             </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
+<footer class="footer mt-auto py-3">
+    <span class="text-muted">&copy; David Bushard</span>
+</footer>
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 

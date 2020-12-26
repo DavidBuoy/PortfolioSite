@@ -1,49 +1,46 @@
-body{
+html, body{
+    background-color: #ececec;
 }
 .container{
-    width: 75%;
+    width: 90%;
+    background-color: white;
 }
 header{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     border-bottom:solid 5px black ;
 }
-.navbar{
+.wu-dark{
     background-color:#414141;
 }
 
+
+h1{
+    margin-bottom: 20px;
+    border-bottom: solid 1px lightgray;
+}
 #panda{
     width: 250px;
-    height: auto;
+    padding-left: 10px;
 }
 .card{
     margin-top: 20px;
     border: none;
 }
-/* This is for the socials */
 footer{
+  position: sticky;  
   bottom: 0;
   width: 100%;
   height: 2.5rem;
-  background-color: lightsalmon;
+  background-color:#414141;
+  text-align: center;
 }
-.blockquote{
-    padding: 10px;
-    text-align: center;
+
+.form{
+    margin-top: 20px;
 }
 
 
 
-/* this goes with the old HTML Maybe Delete? */
-.display-4{
-    border-bottom: solid 1px lightgray;
-}
-.clearfix{
-    background-color: #eee;
-}
-.img-fluid{
-    margin:15px 30px;
-    float: left;
-}
-.text-justify{
-    margin-left: 10px;
-}
+
+
+
