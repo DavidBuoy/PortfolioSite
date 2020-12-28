@@ -13,7 +13,6 @@ header{
 .navbar{
     background-color:#414141;
 }
-
 h1{
     margin-bottom: 20px;
     border-bottom: solid 1px lightgray;
@@ -30,7 +29,7 @@ h1{
 .card{
     margin: 10px;
     border: none;
-    width: 15rem;
+    width: 18rem;
 }
 /* The width was on the HTML but i deleted for Media qs */
 
@@ -53,8 +52,6 @@ h1{
 
 
 .footer{
-  position: relative;  
-  bottom: 0;
   width: 100%;
   height: 3rem;
   background-color: #414141;
