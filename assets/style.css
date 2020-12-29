@@ -37,7 +37,7 @@ h1{
 /* CONTACT PAGE */
 .btn-primary{
     background-color: #F68F13;
-    margin: 20px 0;
+    margin: 40px 0;
     color: #414141;
 }
 .btn-primary:hover{
@@ -46,7 +46,6 @@ h1{
 .btn-primary:active{
     background-color:#414141 !important;
 }
-
 .form{
     margin-top: 20px;
 }
