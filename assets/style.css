@@ -26,14 +26,6 @@ h1{
     padding-left: 10px;
 }
 
-/* PORTFOLIO */
-.card{
-    margin: 10px;
-    border: none;
-    width: 18rem;
-}
-/* The width was on the HTML but i deleted for Media qs */
-
 /* CONTACT PAGE */
 .btn-primary{
     background-color: #F68F13;
