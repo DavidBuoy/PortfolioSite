@@ -33,7 +33,9 @@ h1{
     float: none;
     border: none;
 }
-
+.card-btn-center{
+    text-align: center;
+}
 /* CONTACT PAGE */
 .btn-primary{
     background-color: #F68F13;
