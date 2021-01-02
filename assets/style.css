@@ -1,4 +1,5 @@
 html, body{
+    background-image: url(../assets/images/background.png);
     background-color: #ececec;
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
@@ -20,10 +21,17 @@ h1{
 }
 
 
-/* ABOUT ME */
+/* ABOUT ME PAGE */
 #panda{
     width: 250px;
     padding-left: 10px;
+}
+
+/* PORTFOLIO PAGE */
+.card{
+    margin: 10px auto;
+    float: none;
+    border: none;
 }
 
 /* CONTACT PAGE */
