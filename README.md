@@ -72,4 +72,4 @@ Below are some of the criteria and requirements for the responsive site that I m
 <br>
 <br>
 
-(screenshots/SS-All.png)
+![](screenshots/SS-All.png)
