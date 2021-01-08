@@ -50,7 +50,26 @@ Below are some of the criteria and requirements for the responsive site that I m
 <br>
 <br>
 
-# Sceen Shots and link to page are at the bottom. 
+##  https://github.com/DavidBuoy/PortfolioSite
+<br>
+<br>
 
+# Screenshots
+### Wide View
 
-this is a test of github
+<br>
+<br>
+
+![](screenshots/SS-AboutMe.png)
+![](screenshots/SS-Portfolio.png)
+![](screenshots/SS-Contact.png)
+
+<br>
+<br>
+
+### Mobile
+
+<br>
+<br>
+
+(screenshots/SS-All.png)
